@@ -4,7 +4,7 @@
 
 ## 🚀 Features  
 ✅ Store personal and business information  
-✅ Validate tax and banking details (OGRNIP, INN, bank account)  
+✅ Validate VAT, Tax Number, IBAN, and SWIFT/BIC details  
 ✅ Display stored data in a structured format  
 ✅ CLI-based interface for easy input and management  
 
